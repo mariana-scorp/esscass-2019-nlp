@@ -17,7 +17,7 @@ How to run code in Colab:
 
 ## To run locally
 
-Clone the repository.
+Clone this repository.
 
 Make sure you have the following installed:
 - Python 3
@@ -41,6 +41,12 @@ pip install jupyter
 How to run code locally:
 - run `jupyter notebook` in Terminal from the repository folder
 - press Shift+Enter to run a block of code
+
+## To follow without running
+
+Simply open the jupyter notebooks in your browser.
+
+If you get an error message _Sorry, something went wrong. Reload?_ while loading a notebook in your browser, try opening the notebooks with the help of https://nbviewer.jupyter.org.
 
 ## Contents
 
